@@ -1,0 +1,4 @@
+# Part 1 (34 character dc program)
+dc -f input -e "[lr1+sr]sm[rdstrLt<mz0!=c]sclcxlrp"
+# Part 2 (46 character dc program)
+dc -f input -e "[lr1+sr]sm[SkSgSgLkrdstrLt<mLgLgz3!=c]sclcxlrp"
